@@ -1,3 +1,3 @@
 # OBLIG_project-
-Elias Lyngs
-MacOS 13-inch, 2020
+MacBook Pro
+macOS Sonoma 14.6.1 (23G93)
